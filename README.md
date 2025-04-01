@@ -9,7 +9,7 @@
  
 ## Przykłady komend: 
 ```./cli_fetcher
-```--fetch
+``` --fetch
 ```--url
 ```https://api.example.com/data
  
