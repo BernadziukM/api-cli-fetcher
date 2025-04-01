@@ -7,7 +7,7 @@
 ## Intrukcje instalacji i uruchomienia:
  
  
-##Przykłady komend: 
+## Przykłady komend: 
 ```./cli_fetcher
 ```--fetch
 ```--url
